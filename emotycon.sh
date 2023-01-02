@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-echo "Emotycon v1.0"
+echo "Emotycon v1.1"
 echo "😃 🙁 👍 👎 💗 💔"
 echo "🐶 🐱 🐷 🦁 🐨 🐼"
 echo "👨 👩 👴 👵 👦 👧"
